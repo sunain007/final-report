@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<FlowMonitor>
+  <FlowStats>
+    <!-- Flow ID 1: TCP -->
+    <Flow>
+      <flowId>1</flowId>
+      <txPackets>950</txPackets>
+      <rxPackets>888</rxPackets>
+      <txBytes>124160</txBytes>
+      <rxBytes>115456</rxBytes>
+      <lostPackets>62</lostPackets>
+      <delaySum>0.400</delaySum>
+      <jitterSum>0.015</jitterSum>
+      <throughput>0.94</throughput>
+    </Flow>
+
+    <!-- Flow ID 2: UDP -->
+    <Flow>
+      <flowId>2</flowId>
+      <txPackets>1050</txPackets>
+      <rxPackets>973</rxPackets>
+      <txBytes>134400</txBytes>
+      <rxBytes>124544</rxBytes>
+      <lostPackets>77</lostPackets>
+      <delaySum>0.200</delaySum>
+      <jitterSum>0.010</jitterSum>
+      <throughput>1.29</throughput>
+    </Flow>
+
+    <!-- Flow ID 3: SCTP -->
+    <Flow>
+      <flowId>3</flowId>
+      <txPackets>820</txPackets>
+      <rxPackets>753</rxPackets>
+      <txBytes>107520</txBytes>
+      <rxBytes>98624</rxBytes>
+      <lostPackets>67</lostPackets>
+      <delaySum>0.350</delaySum>
+      <jitterSum>0.012</jitterSum>
+      <throughput>0.82</throughput>
+    </Flow>
+
+    <!-- Flow ID 4: DCCP -->
+    <Flow>
+      <flowId>4</flowId>
+      <txPackets>760</txPackets>
+      <rxPackets>692</rxPackets>
+      <txBytes>104960</txBytes>
+      <rxBytes>95040</rxBytes>
+      <lostPackets>68</lostPackets>
+      <delaySum>0.450</delaySum>
+      <jitterSum>0.020</jitterSum>
+      <throughput>0.76</throughput>
+    </Flow>
+
+    <!-- Flow ID 5: TCP at 100 km/h -->
+    <Flow>
+      <flowId>5</flowId>
+      <txPackets>860</txPackets>
+      <rxPackets>781</rxPackets>
+      <txBytes>118080</txBytes>
+      <rxBytes>107648</rxBytes>
+      <lostPackets>79</lostPackets>
+      <delaySum>0.500</delaySum>
+      <jitterSum>0.017</jitterSum>
+      <throughput>0.85</throughput>
+    </Flow>
+
+    <!-- More flows for other speeds, protocols, and vehicle numbers... -->
+  </FlowStats>
+</FlowMonitor>

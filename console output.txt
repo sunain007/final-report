@@ -1,0 +1,71 @@
+Protocol: TCP, Speed: 50 km/h, Vehicles: 10
+  Avg Throughput: 0.94 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.88
+  Avg Routing Overhead: 37
+  Avg End-to-End Delay: 0.04 seconds
+
+Protocol: UDP, Speed: 50 km/h, Vehicles: 10
+  Avg Throughput: 1.29 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.93
+  Avg Routing Overhead: 29
+  Avg End-to-End Delay: 0.02 seconds
+
+Protocol: SCTP, Speed: 50 km/h, Vehicles: 10
+  Avg Throughput: 0.82 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.85
+  Avg Routing Overhead: 46
+  Avg End-to-End Delay: 0.06 seconds
+
+Protocol: DCCP, Speed: 50 km/h, Vehicles: 10
+  Avg Throughput: 0.76 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.91
+  Avg Routing Overhead: 58
+  Avg End-to-End Delay: 0.07 seconds
+
+Protocol: TCP, Speed: 100 km/h, Vehicles: 20
+  Avg Throughput: 0.85 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.91
+  Avg Routing Overhead: 42
+  Avg End-to-End Delay: 0.08 seconds
+
+Protocol: UDP, Speed: 100 km/h, Vehicles: 20
+  Avg Throughput: 1.32 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.94
+  Avg Routing Overhead: 27
+  Avg End-to-End Delay: 0.03 seconds
+
+Protocol: SCTP, Speed: 100 km/h, Vehicles: 20
+  Avg Throughput: 0.88 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.86
+  Avg Routing Overhead: 50
+  Avg End-to-End Delay: 0.05 seconds
+
+Protocol: DCCP, Speed: 100 km/h, Vehicles: 20
+  Avg Throughput: 0.69 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.84
+  Avg Routing Overhead: 63
+  Avg End-to-End Delay: 0.07 seconds
+
+Protocol: TCP, Speed: 150 km/h, Vehicles: 30
+  Avg Throughput: 0.72 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.87
+  Avg Routing Overhead: 49
+  Avg End-to-End Delay: 0.09 seconds
+
+Protocol: UDP, Speed: 150 km/h, Vehicles: 30
+  Avg Throughput: 1.11 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.90
+  Avg Routing Overhead: 31
+  Avg End-to-End Delay: 0.04 seconds
+
+Protocol: SCTP, Speed: 150 km/h, Vehicles: 30
+  Avg Throughput: 0.79 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.83
+  Avg Routing Overhead: 54
+  Avg End-to-End Delay: 0.08 seconds
+
+Protocol: DCCP, Speed: 150 km/h, Vehicles: 30
+  Avg Throughput: 0.63 Mbps
+  Avg Packet Delivery Ratio (PDR): 0.82
+  Avg Routing Overhead: 61
+  Avg End-to-End Delay: 0.10 seconds
